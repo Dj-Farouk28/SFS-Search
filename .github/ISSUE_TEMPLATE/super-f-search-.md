@@ -25,8 +25,14 @@
 ⚙️ How to Run Super-F-Search
 To set up and run Super-F-Search, follow these steps:
 
-1- pip install PySide6 --break-system-packages
-2- pip install undetected-chromedriver --break-system-packages
-3- pip install selenium --break-system-packages
-4- chmod +x main
-5- ./main
+**1**- pip install PySide6 --break-system-packages
+
+**2**- pip install undetected-chromedriver --break-system-packages
+
+**3**- pip install selenium --break-system-packages
+
+**4**- chmod +x main
+
+**5**- ./main
+
+**Now you're ready to experience the full power of Super-F-Search!** 🚀
