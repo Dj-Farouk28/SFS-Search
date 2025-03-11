@@ -22,3 +22,11 @@
 🔗 [Download from TransferNow](https://www.transfernow.net/fr/bld?utm_source=Super-F-Search)  
 🔗 [Download from MEGA](https://mega.nz/file/I5pjlabY#ierwyaoktvYmFra99I1HTaeihsbZeQoMO-O-9CXAmFQ)
 
+⚙️ How to Run Super-F-Search
+To set up and run Super-F-Search, follow these steps:
+
+1- pip install PySide6 --break-system-packages
+2- pip install undetected-chromedriver --break-system-packages
+3- pip install selenium --break-system-packages
+4- chmod +x main
+5- ./main
