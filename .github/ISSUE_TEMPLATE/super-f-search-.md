@@ -22,7 +22,8 @@
 🔗 [Download from TransferNow](https://www.transfernow.net/fr/bld?utm_source=Super-F-Search)  
 🔗 [Download from MEGA](https://mega.nz/file/I5pjlabY#ierwyaoktvYmFra99I1HTaeihsbZeQoMO-O-9CXAmFQ)
 
-⚙️ How to Run Super-F-Search
+⚙️ **How to Run Super-F-Search**
+
 To set up and run Super-F-Search, follow these steps:
 
 **1**- pip install PySide6 --break-system-packages
